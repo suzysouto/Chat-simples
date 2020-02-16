@@ -5,4 +5,4 @@ Para que funcione corretamente será preciso instalar o yarn, caso não tenha na
 
 yarn add ejs express socket.io
 
-Após digitar esse comando no console pressione enter e depois é só chamar o server.js para que o chat apareça ma porta 3000.
+Após digitar esse comando no console pressione enter e depois é só chamar o server.js para que o chat apareça na porta 3000.
